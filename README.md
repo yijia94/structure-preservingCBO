@@ -26,7 +26,7 @@ We also give a multi-species CBO method which allows information exchange of con
 
 - 'test/'
   
-The scripts are able to produce the numerical results in the paper.
+The scripts are able to produce the most important numerical results in the paper.
 
 test_conv.m: Figs. 2, 9
 
