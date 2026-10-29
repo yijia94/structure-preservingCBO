@@ -1,4 +1,4 @@
-# structure-presevingCBO
+# structure-preservingCBO
 
 
 ## 1. Description
