@@ -16,13 +16,13 @@ This repository contains the MATLAB codes used to generate the numerical results
   
 The src files include several methods used to optimize the entanglement of formation for a given quantum state.
 
-The two structure preserving CBO methods proposed in the paper: Hermitian preserving and Stiefel preserving CBO.
+The two structure-preserving CBO methods proposed in the paper: Hermitian preserving and Stiefel preserving CBO, see CBO_Hermitian.m and CBO_Unitary.m
 
-The two projection based CBO methods (Hermitian and Stiefel) for comparison.
+The two projection-based CBO methods (Hermitian and Stiefel) for comparison, see CBO_Hermitian_projection.m and CBO_Unitary_projection.m
 
-The four CBO methods work for fixed dimensional optimization problems. 
+The four CBO methods work for fixed dimensional optimization problems. Simulations for various dimension is needed to solve the entanglement problem, see M_wrapper.m 
 
-We also give a multi-species CBO method which allows information exchange of consensus between different dimension.
+We also give a multi-species CBO method which allows information exchange of consensus between different dimension, see Multispecies_CBO_Hermitian.m 
 
 - 'test/'
   
