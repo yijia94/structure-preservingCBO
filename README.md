@@ -20,9 +20,9 @@ The two structure-preserving CBO methods proposed in the paper: Hermitian preser
 
 The two projection-based CBO methods for comparison, see CBO_Hermitian_projection.m and CBO_Unitary_projection.m
 
-The four CBO methods work for fixed dimensional optimization problems. Simulations for various dimension is needed to solve the entanglement problem, see M_wrapper.m 
+The four CBO methods work for fixed dimensional optimization problems. Simulations for various dimensions is needed to solve the entanglement problem, see M_wrapper.m 
 
-We also give a multi-species CBO method which allows information exchange of consensus between different dimension, see Multispecies_CBO_Hermitian.m 
+We also give a multi-species CBO method which allows information exchange of consensus between different dimensions, see Multispecies_CBO_Hermitian.m 
 
 - 'test/'
   
